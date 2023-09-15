@@ -6,7 +6,9 @@
 
 Я начинающий QA Engeneer
 
-
+<p align="center">
+ <img width="600" src="asserts/fon.png"/>
+</p>
 
 
 Header
