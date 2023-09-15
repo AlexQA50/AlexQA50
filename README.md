@@ -15,6 +15,6 @@
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@AlexM150-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlexM150) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jungleman150@gmail.com)
 
 <p>
- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+ <img alt="Pytnon" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
 </p>
 
