@@ -16,6 +16,6 @@
 
 <p>
  <img alt="Pytnon" weight="100", height="30" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
- <img weight="100" src="PyCharm_icon.png"/>
+ <img src="asserts/PyCharm_icon.png"/>
 </p>
 
