@@ -7,7 +7,7 @@
 Я начинающий QA Engeneer
 
 <p align="center">
- <img width="600", height="200" src="asserts/fon.png"/>
+ <img width="600" src="asserts/1.jpg"/>
 </p>
 
 
