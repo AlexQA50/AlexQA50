@@ -7,7 +7,7 @@
 Я начинающий QA Engeneer
 
 <p align="center">
- <img width="600" src="asserts/1.png"/>
+ <img width="600" src="asserts/tropic.png"/>
 </p>
 
 - :zap: Являюсь студентом на курсе Артема Русова.
