@@ -4,7 +4,7 @@
 
 Обо мне:
 
-Я начинающий QA Engeneer
+Я начинающий QA Engineer
 
 <p align="center">
  <img width="600" src="asserts/tropic.png"/>
