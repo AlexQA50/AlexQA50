@@ -16,7 +16,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@AlexM150-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlexM150) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jungleman150@gmail.com)
 [![Yandex Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexm150@yandex.ru)
- <a href="your-linkedin-URL">
+ <a href="alexm150@yandex.ru">
     <img src="https://img.shields.io/badge/Yandex-yellow?style=for-the-badge&logo=Yandex&logoColor=black" alt="Yandex Badge"/>
   </a>
 
