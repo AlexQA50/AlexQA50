@@ -20,7 +20,7 @@
  <img width="30" src="asserts/PyCharm_icon.png"/>
  <img width="30" src="asserts/icons8-автоматизация-тестирования-selenium.svg"/>
  <img width="30" src="asserts/pytest-original-wordmark.svg"/>
- <img width="30" src="asserts/Requests_Python_Logo.png"/>
+ <img heigh="30" src="asserts/Requests_Python_Logo.png"/>
 </p>
 
 Социальные сети:
