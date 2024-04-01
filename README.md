@@ -19,6 +19,7 @@
  <img alt="Pytnon" weight="100", height="30" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
  <img width="30" src="asserts/PyCharm_icon.png"/>
  <img width="30" src="asserts/selenium-original.svg"/>
+ <img width="30" src="asserts/pytest-original-wordmark.svg"/>
 </p>
 
 Социальные сети:
