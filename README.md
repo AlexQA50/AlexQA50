@@ -18,7 +18,7 @@
 <p>
  <img alt="Pytnon" weight="100", height="30" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
  <img width="30" src="asserts/PyCharm_icon.png"/>
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+ <img width="30" src="asserts/selenium-original.svg"/>
 </p>
 
 Социальные сети:
